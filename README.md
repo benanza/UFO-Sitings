@@ -2,7 +2,7 @@
 
 *Site is viewable at https://benanza.github.io/UFO-Sitings/
 
-### Project Premise: write code that will create a table dynamically based upon a dataset we provide - needs to allow users to filter the table data for specific values using only pure JavaScript, HTML, and CSS, and D3.js on our web pages.
+### Project Premise: create a table dynamically based upon a dataset we provide - needs to allow users to filter the table data for specific values using only pure JavaScript, HTML, and CSS, and D3.js on our web pages.
 
 1. Create a basic HTML web page
 
